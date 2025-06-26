@@ -1,0 +1,17 @@
+FAILURE RESPONSES
+3
+You can't go that way.
+Not in that direction.
+Nope, that's not happening.
+
+WHAT NEXT QUESTIONS
+3
+What now?
+How do you want to proceed?
+What do you want to do next?
+
+CANT DO THAT RESPONSES
+3
+That's not working.
+That doesn't appear to be working.
+Nah, that's not happening.

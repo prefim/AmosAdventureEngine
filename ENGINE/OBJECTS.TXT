@@ -1,0 +1,79 @@
+1,MOUSE
+A tiny field mouse. His nose twitches as he smells the air.
+A flat, dead mouse corpse.
+15
+-----
+2,STICK
+The stick is, well, sticky!
+No second description.
+2
+-----
+3,*CHILD
+The boy looks about seven or eight years old. He seems sad for some reason.
+No second description.
+22
+-----
+4,*CRONE
+The crone holds her hand out, gesturing for you to give her something.
+The crone appears content with her stick and is ignoring you.
+23
+-----
+5,BEER
+A frosty, foaming pint of medium strength beer.
+An empty pint glass with the remnants of some beer foam around the top.
+0
+-----
+6,SCULPTURE
+A sculpture of a horse in a prancing pose. Its quite detailed.
+
+20
+-----
+7,AXE
+A fairly sharp looking axe.
+
+20
+-----
+8,COINS
+A bag of small gold looking coins.
+
+0
+-----
+9,BEAN
+A seemingly ordinary bean. Could be broad, could be mung, could be butter.....
+
+0
+-----
+10,*LEVER
+The rectangular wooden lever is in the up position.
+The rectangular wooden lever is in the down position.
+11
+-----
+11,TOY MAN
+A little wooden toy man in a sort of attack stance. About four inches tall. Looks like he should be holding something as his little hand has a hole in.
+
+18
+-----
+12,TINY SWORD
+A tiny wooden sword. Many three inches in length.
+
+17
+-----
+13,TOY SOLDIER
+A little wooden soldier holding a tiny wooden sword. The perfect child's gift. 
+
+0
+-----
+END
+END
+END
+END
+END
+
+
+
+Data layout as below
+ROOM NUMBER,SINGLE WORD OBJECT NAME (* means no pick up)
+INITIAL STATE DESCRIPTION
+SECONDARY STATE DESCRIPTION
+ROOM TO APPEAR IN
+-----

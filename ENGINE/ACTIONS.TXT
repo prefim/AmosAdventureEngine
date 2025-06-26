@@ -1,0 +1,326 @@
+DRINK WATER
+26
+0,0
+You scoop a handful of the disgusting water up and drink it. After a few moments you start to feel ill. You collapse and drown in the 3 inches of water.
+KP
+END
+
+LOOK UNDER BED
+14
+0,0
+You look under the bed and find a bag of coins
+PO COINS
+END
+
+LET GO OF LADDER
+25
+0,0
+You stupidly let go of the only thing holding you against the pull of gravity. Gravity then wins the battle as you fall to your death at the bottom of the well. 
+KP
+END
+
+TALK TO CHILD
+22
+0,0
+"How's it going?" You ask. "Oh, ok." he replies. "My mom said I couldn't go see the old crone who lives up the way so I came out here and I've managed to lose my toy soldier. Mom is going to give me real telling off!" 
+END
+
+USE TOY MAN WITH TINY SWORD
+999
+11,12
+You try the handle of the tiny sword in the hand of the soldier and it slips in perfectly. That looks like they were made to go together.
+RO TOY MAN
+RO TINY SWORD
+AO TOY SOLDIER
+END
+
+USE TINY SWORD WITH TOY MAN
+999
+11,12
+You try the handle of the tiny sword in the hand of the soldier and it slips in perfectly. That looks like they were made to go together.
+RO TOY MAN
+RO TINY SWORD
+AO TOY SOLDIER
+END
+
+GIVE TOY SOLDIER TO CHILD
+22
+13,0
+You offer the toy soldier to the child. "Is this what you lost?" you ask. "Yes! you found it. I best head home before I lose this again. Thankyou!". The child heads off back towards the village.
+RO TOY SOLDIER
+RO CHILD
+END
+
+GIVE TOY MAN TO CHILD
+18
+11,0
+You offer the toy man to the child. "Is this what you lost?" you ask. "Well sort of." he replies looking more upset. "But he's missing his sword." and refuses to take the toy.
+END
+
+GIVE TINY SWORD TO CHILD
+18
+12,0
+You offer the tiny sword to the child. "Is this what you lost?" you ask. "Where's the soldier?!" he blurts. This is just his sword.
+END
+
+WALK UNDER BRIDGE
+6
+0,0
+You carefully step your way along the bank and under the bridge.
+TP,7
+END
+
+SIT
+28
+0,0
+You sit yourself down and rest a while. You feel refreshed.
+END
+
+REST
+28
+0,0
+You sit yourself down and rest a while. You feel refreshed.
+END
+
+USE LOGS
+28
+0,0
+You sit yourself down and rest a while. You feel refreshed.
+END
+
+WAKE SOLDIER
+14
+0,0
+You tap the soldiers arm. Nothing. You shake the soldier gently to try and wake him from his perturbed slumber. Suddenly the soldier's eyes fly wide open. He sees you standing over him and in a panic grabs a blade from under his pillow. Before you know it, the blade is buried hilt deep into your chest and you slowly die. 
+KP
+END
+
+PLANT BEAN
+29
+9,0
+You scoop away some dirt, pop the bean into the hole and cover it. Immediately you hear a rumbling and a huge beanstalk shoots up into the air, pushing you back as it takes up more and more space in the dirt.
+RR,29,30
+RO BEAN
+TP,30
+END
+
+USE AXE ON BEANSTALK
+30
+7,0
+You chop at the beanstalk and seem to be making some headway. After hours and hours of backbreaking work, the beanstalk snaps. Instead of falling to the ground, it spirals up into the clouds and disappears. The stump in the ground shrinks away beneath the soil.
+RR,30,29
+TP,29
+END
+
+USE BEAN WITH SOIL
+29
+9,0
+You scoop away some dirt, pop the bean into the hole and cover it. Immediately you hear a rumbling and a huge beanstalk shoots up into the air, pushing you back as it takes up more and more space in the dirt.
+RR,29,30
+RO BEAN
+TP,30
+END
+
+USE BEAN WITH POT
+13
+9,0
+You hold the bean in your finger and thumb over the pot of hot bubbling liquid. Letting go you watch almost in slow motion as the bean falls closer toward the pot. As the bean makes contact with the liquid (This really does look like soup) it makes a satisfying bloop sound and disappears into the depths below.
+RO BEAN
+END
+
+PLACE BEAN INTO POT
+13
+9,0
+You hold the bean in your finger and thumb over the pot of hot bubbling liquid. Letting go you watch almost in slow motion as the bean falls closer toward the pot. As the bean makes contact with the liquid (This really does look like soup) it makes a satisfying bloop sound and disappears into the depths below.
+RO BEAN
+END
+
+OPEN PANTRY
+13
+0,0
+You open one of the pantry doors. Surprisingly there's not much food in there. A few crumbs of bread with a weevil chewing on it and a single bean which drops out onto the floor.
+PO BEAN
+END
+
+TAKE POT
+13
+0,0
+Despite it looking rather heavy, you grab the bubbling pot by the handle and lift, instantly realising how screaming hot the metal pot is. You let go letting it slam down onto the stove top. The lava hot stew (it turns out it wasn't soup after all) splashes up and onto you. Scolding you liberally from head to foot. While you writhe around on the floor in agony, a sleepy looking soldier wanders in, panics, and stabs you with his sword. You die.
+KP
+END
+
+GET POT
+13
+0,0
+Despite it looking rather heavy, you grab the bubbling pot by the handle and lift, instantly realising how screaming hot the metal pot is. You let go letting it slam down onto the stove top. The lava hot stew (it turns out it wasn't soup after all) splashes up and onto you. Scolding you liberally from head to foot. While you writhe around on the floor in agony, a sleepy looking soldier wanders in, panics, and stabs you with his sword. You die.
+KP
+END
+
+CLIMB BRIDGE
+6
+0,0
+You try to scale the sides of the bridge but its too steep.
+END
+
+CLIMB BEANSTALK
+30
+0,0
+You reach up and grab hold of the first leaf and pull yourself up. This looks like a long climb.
+TP,31
+END
+
+SWIM ACROSS RIVER
+4
+0,0
+Initially this goes well but then the current drags you under and you feel the last of your air leave your lungs, you perish.
+KP
+END
+
+SWIM RIVER
+4
+0,0
+Initially this goes well but then the current drags you under and you feel the last of your air leave your lungs, you perish.
+KP
+END
+
+JUMP IN RIVER
+7
+0,0
+You leap up and into the rapidly moving water. You are dragged towards and over the edge of the waterfall, cracking your head on a poorly placed rock and falling to your death in the waters below.
+KP
+END
+
+DIVE OVER WATERFALL
+7
+0,0
+You leap skyward over the edge of the waterfall. Strike an incredible silhouette against the sunlight. Once gravity takes hold, you plummet to your death on the rocks below.
+KP
+END
+
+GIVE STICK TO CRONE
+23
+2,4
+You offer the crone the stick and she snatches it away from you, muttering something about magic.
+CS,4,2
+RO STICK
+DR,23,D,24
+END
+
+TALK TO BARKEEP
+21
+0,0
+You try to catch the barkeeps attention but he seems distracted in his own thoughts. "Be with you in a moment sir" he says. 
+END
+
+MOVE CART
+12
+0,0
+You give the cart a shove and it moves a few feet to the side. revealing a damaged hole through the wall. 
+DR,12,S,15
+END
+
+ORDER BEER
+21
+0,0
+You raise a hand and confidently order a beer. The Barkeep comes over and pours it for you placing it on the bar saying "On the house sir! Sorry for the wait".
+CS,5,1
+PO BEER
+END
+
+DRINK BEER
+999
+0,5
+You raise the glass to your lips and quaff the drink down until no more remains. 
+1
+CS,5,2
+AO BEER
+END
+
+PULL LEVER
+11
+0,10
+You pull the lever, there's a loud clunk from above you.
+1
+CS,10,2
+END
+
+PUSH LEVER
+11
+0,10
+You push the lever, there's a loud clunk from above you. The portcullis rapidly descends spearing you through your shoulder and collapsing you into a broken heap on the floor. As half of you is outside the castle, the other half inside, you die.
+2
+CS,10,1
+KP
+END
+
+TAKE AXE
+20
+0,0
+You try to take the axe but the trader assumes you are stealing it. She yells for guards who quickly approach and arrest you. Sadly you die in jail.
+KP
+END
+
+GET AXE
+20
+0,0
+You try to take the axe but the trader assumes you are stealing it. She yells 'THEIF!' and guards quickly approach and arrest you. You try to fight your way out of it and die in the struggle.
+KP
+END
+
+TAKE SCULPTURE
+20
+0,0
+You try to take the sculpture but the trader assumes you are stealing it. She grabs a shovel and hits you firmly across the head. You drop to the floor and fall unconscious. You die.
+KP
+END
+
+GET SCULPTURE
+20
+0,0
+You barely pick the sculpture up to get a closer look but the trader thinks you are robbing it. She swiftly dispatches you with a dagger she carried about her person. You bleed out on the hut floor. 
+KP
+END
+
+BUY AXE
+20
+8,7
+You offer the bag of coins and politely ask for the axe. "You want that gift wrapped sir?" she replies, and hands you the axe with a smile.
+AO AXE
+RO COINS
+END
+
+BUY SCULPTURE
+20
+8,6
+You offer the bag of coins and ask to purchase the sculpture. "Here you go" the trader replies and hands you the sculpture.
+AO SCULPTURE
+RO COINS
+END
+VERYEND
+VERYEND
+VERYEND
+VERYEND
+VERYEND
+VERYEND
+VERYEND
+VERYEND
+VERYEND
+VERYEND
+
+
+
+EXAMPLE DATA STRUCTURE
+COMMAND
+ROOM TO BE USED IN (or 999 for an inventory action)
+THE TWO OBJECTS TO BE USED (or 0 on the 2nd one for an object and room interaction)
+RESPONSE TO ACTION
+ACTIONSCRIPT (RO = remove object, AO = add object, DR = Change direction of room status, TP = teleport, RR = Replace room with another, KP Kill player)
+END (ends actionscript)
+VERYEND (marker for EOF)
+
+
+
+
+
+
+
