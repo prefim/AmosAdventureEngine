@@ -1,5 +1,7 @@
 Hey there!
 
+If you download the zip file and unpack onto your amiga hard drive or winuae partition you should just be able to run the game executable.
+
 Thanks for checking this very early alpha out of my Amos Adventure Engine. This is a small test adventure created with it to check things work as expected, that I've not missed anything too obvious and so on. Its set in a world of castles, knights and villagers with a sprinkling of fairytales in there too. As each location supports an image, I've added one for each in the demo. these are just placeholder images. Please don't read too much into the quality!
 
 I'd love to hear your thoughts, bugs you found, possible improvements so please drop me an email to:- mat@preferredimage.co.uk
